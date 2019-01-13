@@ -1,7 +1,7 @@
 # symfony-crud
 symfonyでのCRUDアプリ習作  
 
-下記を使わせていただきました。  
+下記を参考にさせていただきました。（ありがとうございました）  
 https://php-archive.net/php/symfony-4-crud/
 
 # 環境
